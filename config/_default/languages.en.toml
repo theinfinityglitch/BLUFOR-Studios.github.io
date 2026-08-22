@@ -7,17 +7,17 @@ title = "[𝘽𝙇𝙐𝙁𝙊𝙍 𝙎𝙩𝙪𝙙𝙞𝙤]"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  dateFormat = "2 January 2006"
+dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+# mainSections = ["section1", "section2"]
+# description = "My awesome website"
 
 [params.author]
-  name = "[𝘽𝙇𝙐𝙁𝙊𝙍 𝙎𝙩𝙪𝙙𝙞𝙤]"
-  # image = "img/blufor-studio.png"
-  headline = "The development team im charge of OPFOR."
-  bio = "The development team im charge of OPFOR."
-  links = [
+name = "[𝘽𝙇𝙐𝙁𝙊𝙍 𝙎𝙩𝙪𝙙𝙞𝙤]"
+# image = "img/blufor-studio.png"
+headline = "The development team im charge of OPFOR."
+bio = "The development team im charge of OPFOR."
+links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -30,7 +30,7 @@ title = "[𝘽𝙇𝙐𝙁𝙊𝙍 𝙎𝙩𝙪𝙙𝙞𝙤]"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-   { github = "https://github.com/BLUFOR-Studio" },
+  { github = "https://github.com/BLUFOR-Studio" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
@@ -64,4 +64,4 @@ title = "[𝘽𝙇𝙐𝙁𝙊𝙍 𝙎𝙩𝙪𝙙𝙞𝙤]"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  ]
+]
